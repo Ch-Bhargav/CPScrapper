@@ -84,8 +84,3 @@ if profile_data:
 ```
 
 Replace `'kl_cseh_30053'` with the username you want to fetch.
-
-Feel free to modify and enhance the content based on additional features or instructions you want to include in the Readme.md file. Remember to add any prerequisites or dependencies needed to run these scripts successfully.
-```
-
-Make sure to customize it further based on additional features or instructions you want to include in the Readme.md file
